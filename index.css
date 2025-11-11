@@ -2,20 +2,22 @@ body {
     margin: 0 auto;
     padding: 10px;
     font-family: Arial, Helvetica, sans-serif;
-    max-width: 302px;
+    max-width: 300px;
+    background-color: #98FB98;
 }
 
 label {
     color: #5f9341;
-    font-weight: 900;
+    font-weight: 600;
 }
 
 input {
+    margin-top: 5px;
     width: 100%;
     padding: 10px;
     box-sizing: border-box;
     border: 1px solid #5f9341;
-    margin-bottom: 4px;
+    margin-bottom: 10px;
 }
 
 button {
@@ -39,6 +41,10 @@ ul {
 
 li {
     margin-top: 5px;
+}
+
+h4 {
+    color: #006400;
 }
 
 a {
